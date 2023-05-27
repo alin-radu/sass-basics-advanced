@@ -10,7 +10,7 @@
 
 ### II. GITHUB
 
-- git@github.com:alin-radu/sass-basics.git
+- git@github.com:alin-radu/sass-basics-advanced.git
 
 ### III. APP
 
